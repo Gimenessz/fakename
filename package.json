@@ -1,0 +1,21 @@
+{
+  "name": "@felipegimenes/fakename",
+  "version": "1.0.1",
+  "description": "codigo para dar nome aleatorio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gimenessz/fakename.git"
+  },
+  "author": "felipe gimenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gimenessz/fakename/issues"
+  },
+  "homepage": "https://github.com/Gimenessz/fakename#readme"
+}
+
