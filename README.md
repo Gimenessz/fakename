@@ -76,3 +76,5 @@ node test.js
 
 RM99799 - Felipe Gimenes 
 RM559444 - Musashi Mabuti
+RM559809 - Marcos Gabriel
+RM560796 -Joel Barra
